@@ -1,0 +1,3 @@
+<#macro vue>
+    <#nested>
+</#macro>

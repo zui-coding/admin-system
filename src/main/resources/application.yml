@@ -1,0 +1,10 @@
+spring:
+  freemarker:
+    enabled: true
+    suffix: .ftl
+    cache: true
+    charset: UTF-8
+    template-loader-path: classpath:/templates/
+    expose-request-attributes: true
+    expose-session-attributes: true
+    request-context-attribute: request
